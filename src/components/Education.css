@@ -1,0 +1,76 @@
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: 20%;
+  margin-top: 20px;
+}
+.education-heading {
+  color: #616161 !important;
+  text-align: left;
+  font-size: 20px;
+  line-height: 110%;
+}
+.education-cards {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.edcard {
+  box-shadow: 0 2px 5px 0 rgb(0 0 0 / 15%);
+  margin: 10px;
+  background-color: #ffffff;
+}
+.edcard-header {
+  padding: 20px 20px;
+  border-bottom: 1px solid #e0e0e0;
+  font-size: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.colom-1 {
+  width: 50%;
+  box-shadow: 0 2px 5px 0 rgb(0 0 0 / 15%);
+}
+.colom-2 {
+  width: 50%;
+  margin-left: 2rem;
+  box-shadow: 0 2px 5px 0 rgb(0 0 0 / 15%);
+}
+
+.right-text {
+  color: #f44336 !important;
+  font-size: 10px;
+  margin-left: 200px;
+}
+
+.text-header {
+  font-size: 15px;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.tag {
+  background-color: #d32f2f !important;
+  padding: 2px 4px;
+  font-size: 10px;
+  color: #ffffff;
+  font-weight: 300;
+  position: relative;
+  left: -76px;
+  top: 19px;
+}
+.collection-item-2 {
+  width: 100%;
+  background-color: #fff;
+  padding: 10px 20px;
+  margin: 0;
+  list-style-type: none;
+}
+.edetail {
+  font-size: 12px;
+  letter-spacing: 1px;
+  padding: 10px;
+}

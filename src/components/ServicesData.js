@@ -12,32 +12,47 @@ export const ServicesData = [
     heading: "UI/UX Design",
     info: "I am a very simple card. I am good at containing small bits of information.",
     style: {
-      backgrounColor: "red",
+      backgroundColor: "#388e3c",
     },
   },
   {
     sideicon: <WebIcon />,
     heading: "Web Application",
     info: "I am a very simple card. I am good at containing small bits of information.",
+    style: {
+      backgroundColor: "#0097a7",
+    },
   },
   {
     sideicon: <AndroidIcon />,
     heading: "Android Applicaton",
     info: "I am a very simple card. I am good at containing small bits of information.",
+    style: {
+      backgroundColor: "#D32F2F",
+    },
   },
   {
     sideicon: <StayCurrentPortraitIcon />,
     heading: "Mobile Design",
     info: "I am a very simple card. I am good at containing small bits of information.",
+    style: {
+      backgroundColor: "#ffa000 ",
+    },
   },
   {
     sideicon: <CreateIcon />,
     heading: "Writing",
     info: "I am a very simple card. I am good at containing small bits of information.",
+    style: {
+      backgroundColor: "#1976D2",
+    },
   },
   {
     sideicon: <CameraAltIcon />,
     heading: "Protography",
     info: "I am a very simple card. I am good at containing small bits of information.",
+    style: {
+      backgroundColor: "#7b1fa2",
+    },
   },
 ];
